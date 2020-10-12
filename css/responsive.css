@@ -1,0 +1,200 @@
+
+@media only screen and (min-width: 1200px) and (max-width: 1300px)
+{
+
+
+}
+
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) 
+{
+   
+    .subscribe2-wrapper .subscribe-form input
+    {
+     	width: 60%;
+    }
+
+    .no-gutters>.col, .no-gutters>[class*=col-] 
+	{
+      padding-right: 15px;
+      padding-left: 15px; 
+    }
+
+    .testimonial_095_indicators>.carousel-indicators
+    {
+        bottom: 0px;
+    }
+
+}
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) 
+{
+
+    .slidebg 
+    {
+       height: 80vh;
+    }
+
+    .titlework
+    {
+        font-size: 100px;
+    }
+
+    .timeline-line
+    {
+    	margin-top: 40px;
+    }
+
+    .wcaption
+    {
+       font-size: 45px; 
+    }
+
+	.no-gutters>.col, .no-gutters>[class*=col-] 
+	{
+      padding-right: 15px;
+      padding-left: 15px; 
+    }
+
+    #testimonial_095>.carousel-inner
+     {
+        width: 100%;
+     }
+
+    .timeline-event 
+    {
+	   padding: 3px !important;
+	   margin: auto 12px;
+	}
+
+	.testimonial_095_indicators>.carousel-indicators
+	{
+		bottom: 0;
+	}
+    
+    .subscribe2-wrapper .subscribe-form input
+    {
+       width: 60%;
+    }
+}
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) 
+{
+	.slidebg 
+	{
+	    height: 100vh;
+	    min-height: 900px;
+	}
+
+	.slide-content 
+	{
+	   padding-top: 150px;
+	   padding-bottom: 150px;
+	}
+
+    .titlework
+    {
+       font-size: 60px;
+    }
+    .wcaption
+    {
+       font-size: 34px;
+       margin-top: -40px;
+    }
+
+    .mobile-space
+    {
+       margin-top: 15px;
+    }
+
+    .timeline-space
+    {
+       margin-top: 20px;
+    }
+
+    .timeline-line 
+    {
+       margin-top: 42px;
+    }
+     
+     #testimonial_095>.carousel-inner
+     {
+        width: 100%;
+     }
+
+    .timeline-event 
+    {
+	   padding: 3px !important;
+	   margin: auto 12px;
+	}
+
+	.testimonial_095_indicators>.carousel-indicators
+	{
+		bottom: 0;
+	}
+    
+    .margin-indicators
+    {
+       padding-bottom: 20px;
+    }
+
+    .uxbg
+    {
+    	height: 27rem;
+    }
+     .subscribe2-wrapper .subscribe-form input
+     {
+     	width: 100%;
+     }
+    
+    .subscribe-form
+    {
+      text-align: center;
+    }
+    .btn-subscribe
+    {
+      margin-top: 15px;   
+    }
+
+    .copyright-lft
+    {
+       text-align: center;
+    }
+
+    .social-list
+    {
+      text-align: center;
+    }
+
+
+}
+
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) 
+{
+	
+		
+}
+
+@media only screen and (min-width: 600px) and (max-width: 767px) 
+{
+
+    .mobile-space
+    {
+       margin-top: 0;
+    }
+
+    .timeline-space 
+    {
+      margin-top: 0;
+    }
+
+    .no-gutters>.col, .no-gutters>[class*=col-] 
+	{
+      padding-right: 15px;
+      padding-left: 15px; 
+    }
+}
+
