@@ -41,12 +41,12 @@
 									<p>Hey, I'm Tejasree</p>
 								</div>
 								<h1 class="hdesignation">UX <span>DESINER</span></h1>
-								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+								<p>I'm a self taught designer and have learnt a lot of the processes, concepts and theories of user experience design through attending workshops, reading blogs and applying these to projects in my spare time and at  work.	I'm constantly learning new things everyday and love meeting people who are motivated and unafraid of sharing their ideas with the world.</p>
 								<div class="row pt-2">
 									<div class="col-sm-6 col-md-6 col-lg-6">
 										<div class="location mb-3">
 											 <img class="img-fluid location-lft rounded-circle" src="images/working-at-home.png" alt="">	
-											<p>Lead Designer at Google</p>
+											<p>UX Designer at Tata Consultancy Services</p>
 										</div>
 										<div class="location">
 											<img class="img-fluid location-lft rounded-circle" src="images/mentor.png" alt="">
@@ -95,17 +95,19 @@
 		        			<img class="card-img-top img-fluid text-center" src="images/hcmobile.png" alt="">
 						  <div class="card-body">
 						  	<img class="img-fluid pb-2" width="60" src="images/hellocanada.jpg" alt="">
-						    <h4 class="card-title">Hellow Canada</h4>
-						    <p class="card-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+						    <h4 class="card-title">ICICI Hello Canada</h4>
+						    <p class="card-text">Worked as UX Designer for ICICI. This Hello Canada application designed specifically for individuals who are planning to move canada with permanent residency, work or study permits.</p>
 						  </div>
 						</div>
 						<div class="clear">&nbsp;</div>
 						<div class="card hcimg bg-white border-0">
-		        			<img class="card-img-top img-fluid text-center" src="images/hcmobile.png" alt="">
+		        			<img class="card-img-top img-fluid text-center" src="images/dmproject.png" alt="">
 						  <div class="card-body">
-						  	<span style="color:#e62d56;">DM</span>
+						  	<!--<span style="color:#e62d56;">DM</span>-->
+						  	<img class="img-fluid pb-2" width="60" src="images/dm.png" alt="">
+						  	
 						    <h4 class="card-title">Delivery Management</h4>
-						    <p class="card-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+						    <p class="card-text">DM is an app for Delivery Managers, related to handling multiple projects and associates. Choosing the team members and assigning specific roles to them. Designed a Proof of Concept for Mobile Application for Internal Purpose.</p>
 						  </div>
 						</div>
 		            </div>
@@ -175,24 +177,24 @@
 							</div>
 						</div>
                         <div class="clear">&nbsp;</div>
-                        <div class="row">
-                            <div class="col-sm-6 col-md-6 col-lg-6">
+                        <div class="row d-flex">
+                            <div class="col-sm-6 col-md-6 col-lg-6 d-flex">
                             	 <div class="card hcimg bg-white border-0">
-				        			<img class="card-img-top img-fluid text-center" src="images/hcmobile.png" alt="">
+				        			<img class="card-img-top img-fluid text-center pt-4 pb-4" src="images/ilens.png" alt="">
 								  <div class="card-body">
 								  	<img class="img-fluid pb-2" width="60" src="images/ilens.jpg" alt="">
 								    <h4 class="card-title">iLENS</h4>
-								    <p class="card-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+								    <p class="card-text">ICICI is reimagining their Loan Processing Platform to help their business partners by fast tracking the process to sanctioning a loan. This is bringing all isolated digital properties into one unified solution by including various business verticals like Home loans, Vehicle loans and Education loans etc.</p>
 								  </div>
 								</div>
                             </div>
-                            <div class="col-sm-6 col-md-6 col-lg-6 timeline-space">
+                            <div class="col-sm-6 col-md-6 col-lg-6 d-flex timeline-space">
                             	 <div class="card hcimg bg-white border-0">
-				        			<img class="card-img-top img-fluid text-center" src="images/hcmobile.png" alt="">
+				        			<img class="card-img-top img-fluid text-center" src="images/nmi-mockup.png" alt="">
 								  <div class="card-body">
-								  	<img class="img-fluid pb-2" width="60" src="images/nationalmi.jpg" alt="">
+								  	<img class="img-fluid pb-2" width="60" src="images/nmi-logo.png" alt="">
 								    <h4 class="card-title">NationalMi</h4>
-								    <p class="card-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+								    <p class="card-text">National Mortgage Insurance Corporation provides mortgage insurance services throughout United States. Providing National MI a more memorable, meaningful and rewarding digital presence and empower them in this competitive marketplace. Redesigning their corporate site as a responsive design.</p>
 								  </div>
 								</div>
                             </div>
@@ -229,7 +231,7 @@
 						  </div>
 						  <span class="value p-1">100%</span>
 						</div>
-						<span class="skilltitle">Product Design</span>
+						<span class="skilltitle">Wireframes</span>
 		            </div>
 		            <div class="singleset p-2">
 			          	<div class="d-flex align-items-center">
@@ -239,7 +241,7 @@
 						  </div>
 						  <span class="value p-1">100%</span>
 						</div>
-						<span class="skilltitle">Visual Design</span>
+						<span class="skilltitle">Information Architecture</span>
 		            </div>
 		            <div class="singleset p-2">
 			          	<div class="d-flex align-items-center">
@@ -249,7 +251,7 @@
 						  </div>
 						  <span class="value p-1">100%</span>
 						</div>
-						<span class="skilltitle">Web Design</span>
+						<span class="skilltitle">Usability Testing</span>
 		            </div>
                </div>
 
@@ -262,7 +264,7 @@
 						  </div>
 						  <span class="value p-1">100%</span>
 						</div>
-						<span class="skilltitle">UI Design</span>
+						<span class="skilltitle">Personas</span>
 		            </div>
 		            <div class="singleset p-2">
 			          	<div class="d-flex align-items-center">
@@ -272,7 +274,7 @@
 						  </div>
 						  <span class="value p-1">100%</span>
 						</div>
-						<span class="skilltitle">Mobile & App Design</span>
+						<span class="skilltitle">Competitive Analysis</span>
 		            </div>
 		            <div class="singleset p-2">
 			          	<div class="d-flex align-items-center">
@@ -295,7 +297,7 @@
 						  </div>
 						  <span class="value p-1">70%</span>
 						</div>
-						<span class="skilltitle">UX Design</span>
+						<span class="skilltitle">Contexual Inquiry</span>
 		            </div>
 		            <div class="singleset p-2">
 			          	<div class="d-flex align-items-center">
@@ -305,7 +307,7 @@
 						  </div>
 						  <span class="value p-1">40%</span>
 						</div>
-						<span class="skilltitle">Design Strategy</span>
+						<span class="skilltitle">Heuristic Evaluation</span>
 		            </div>
 		            <div class="singleset p-2">
 			          	<div class="d-flex align-items-center">
@@ -315,7 +317,7 @@
 						  </div>
 						  <span class="value p-1">20%</span>
 						</div>
-						<span class="skilltitle">User Research</span>
+						<span class="skilltitle">Atomic Design</span>
 		            </div>
                </div>
 	    
@@ -533,7 +535,7 @@
 				<div class="row">
 					<div class="col-sm-6 col-md-6 col-lg-6">
 						<div class="copyright-lft pt-2">
-	                       <p>Copyright<a href="index.php"> Tejasree Kapsi</a> 2020</p>
+	                       <p>Copyright &#169; 2020<a href="index.php"> Tejasree Kapsi</a> </p>
 						</div>
 					</div>
 					
@@ -546,6 +548,9 @@
 	                            <li class="list-inline-item">
 	                            	<a href="#"><i class="fa fa-twitter"></i></a>
 	                            </li>
+	                            <li class="list-inline-item">
+	                            	<a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+	                            </li>    
 	                        </ul>
 						</div>
 					</div>
@@ -555,10 +560,6 @@
 
 
 	
-
-
-
-
         <script src="js/jquery.min.js"></script>
 		<script src="js/popper.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
@@ -573,10 +574,6 @@
 				  $('.scroll-to-target').removeClass('open');
 				}
 			});
-
-
-
-
 		</script>
    
 		
