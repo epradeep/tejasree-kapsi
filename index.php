@@ -500,7 +500,7 @@
 		    </div>
 		</section>
 
-		<section class="pt-5 pb-5 subscription bg-white">
+		<!--<section class="pt-5 pb-5 subscription bg-white">
 		    <div class="container">
 		        <div class="row text-center">
 		        	<div class="col-sm-2 col-md-2 col-lg-2"></div>
@@ -528,7 +528,7 @@
 		            <div class="col-sm-1 col-md-1 col-lg-2"></div>
 		        </div>
 		    </div>
-		</section>
+		</section>-->
 
 		<section class="copyright pt-3 pb-3">
 	        <div class="container">
