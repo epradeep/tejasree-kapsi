@@ -37,7 +37,7 @@
 						<div class="row">
 							<div class="col-sm-8 col-md-8 col-lg-8">
 								<div class="profileicon">
-									<img class="img-fluid rounded-circle" src="images/dummy-female.png" width="60" height="60" alt="">
+									<img class="img-fluid rounded-circle" src="images/tejasree.jpeg" width="80" height="80" alt="">
 									<p>Hey, I'm Tejasree</p>
 								</div>
 								<h1 class="hdesignation">UX <span>DESINER</span></h1>
@@ -48,20 +48,20 @@
 											 <img class="img-fluid location-lft rounded-circle" src="images/working-at-home.png" alt="">	
 											<p>UX Designer at Tata Consultancy Services</p>
 										</div>
-										<div class="location">
+										<!--<div class="location">
 											<img class="img-fluid location-lft rounded-circle" src="images/mentor.png" alt="">
 											<p>Mentor at....</p>
-										</div>
+										</div>-->
 							        </div>
 							        <div class="col-sm-6 col-md-6 col-lg-6 mobile-space">
 							        	<div class="location mb-3">
 											<img class="img-fluid location-lft rounded-circle" src="images/locationicon.png" alt="">
 											<p>Hyderabad, Telangana</p>
 										</div>
-										<div class="location">
+										<!--<div class="location">
 											<img class="img-fluid location-lft rounded-circle" src="images/coding.png" alt="">
 											<p>Remote work at....</p>
-										</div>
+										</div>-->
 							        </div>
 								</div>
 							</div>
@@ -80,7 +80,8 @@
 		            <div class="col-sm-8 col-md-8 col-lg-8 mx-auto">
 		            	<h1 class="titlework">Work</h1>
 		            	<h2 class="wcaption pb-2">What I've been up to</h2>
-		            	<p>Globally adopted software, high converting websites, emerging technology and beyond. This is a detailed chronicle of the stories, processes and results behind a curated selection of projects that I've led and contributed to.</p>
+		            	<p>I'm a customer focused designer with a knack for creative problem solving and have the experience of working with senior leadership teams to craft the beautiful products. Have experience in optimizing user experience through innovative solutions and dynamic interface designs.</p>
+		            	<!--<p>Globally adopted software, high converting websites, emerging technology and beyond. This is a detailed chronicle of the stories, processes and results behind a curated selection of projects that I've led and contributed to.</p>-->
 					</div>
 				</div>
 		    </div>
@@ -121,7 +122,7 @@
 							    		<img class="img-fluid" src="images/tab-icon.png" alt="">
 							    	</a>
 							    </li>
-							    <li class="nav-item">
+							    <!--<li class="nav-item">
 							    	<a class="nav-link timeline-event" href="#bootstrap-about" aria-controls="about" role="tab" data-toggle="tab">
 							    		<img class="img-fluid" src="images/tab-icon.png" alt="">
 							    	</a>
@@ -130,7 +131,7 @@
 							    	<a class="nav-link timeline-event" href="#bootstrap-work" aria-controls="work" role="tab" data-toggle="tab">
 							    	    <img class="img-fluid" src="images/tab-icon.png" alt="">
 							    	</a>
-							    </li>
+							    </li>-->
 							</ul>
 
 							<div class="card bg-none border-0 pt-4">
@@ -139,16 +140,16 @@
 							            <div role="tablist" aria-labelledby="home-tab" class="tab-pane fade show active" id="bootstrap-home">
                                             <div class="row">
 		        	                            <div class="col-sm-4 col-md-4 col-lg-4">
-                                                    <img class="img-fluid" src="images/dummy-img.png" alt="">
+                                                    <img class="img-fluid" src="images/system-main.png" alt="">
 		        		                        </div>
 		        		                        <div class="col-sm-8 col-md-8 col-lg-8 mobile-space">
-                                                    <p>2011 • LEXINGTON, KY</p>
-                                                    <h3>Lorem Ipsum</h3>
-                                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.<p>
+                                                    <p>Mar 2017 - Till date, TCS</p>
+                                                    <h3>UX Designer</h3>
+                                                    <p>In a span of 4 years at Tata Consultancy Services, I have successfully worked on various projects, start to ﬁnish covering various Industries and domains. Received many customer accolades for the projects.<p>
 		        		                        </div>
 							                </div>
 							            </div>
-							            <div role="tablist" aria-labelledby="home-tab" class="tab-pane fade" id="bootstrap-about">
+							            <!--<div role="tablist" aria-labelledby="home-tab" class="tab-pane fade" id="bootstrap-about">
                                              <div class="row">
 		        	                            <div class="col-sm-4 col-md-4 col-lg-4">
                                                     <img class="img-fluid" src="images/dummy-img.png" alt="">
@@ -171,7 +172,7 @@
                                                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.<p>
 		        		                        </div>
 							                </div>
-							            </div>
+							            </div>-->
 							        </div>
 							    </div>
 							</div>
@@ -336,39 +337,38 @@
 			        <ol class="carousel-indicators">
 			            <li data-target="#testimonial_095" data-slide-to="0" class="active"></li>
 			            <li data-target="#testimonial_095" data-slide-to="1"></li>
-			            <li data-target="#testimonial_095" data-slide-to="2"></li>
 			        </ol> <!-- Wrapper For Slides -->
 			        <div class="carousel-inner" role="listbox">
 			            <div class="carousel-item active">
 			                <div class="testimonial_095_slide"> 
 			                	<a href="#"><span class="fa fa-quote-left"></span></a>
-			                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+			                    <p>Tejasree is a passionate UX Designer, an enthusiastic learner, and a great professional who always delivers on promises. She never loses heart in primary setbacks and always ready for another wholehearted iteration. I have been humbled by her professionalism and, will never miss a chance to work with her again. Wish all the very best for all her future endeavors.</p>
 			                </div>
 			                <div class="d-flex justify-content-center margin-indicators">
 		                        <div>
-		                        	<img src="images/dummy-img.png" width="50" height="50" class="rounded-circle">
+		                        	<img src="images/jaydeep-mukherjee.jpg" width="60" height="60" class="rounded-circle">
 		                        </div>
 		                        <div class="ml-2">
-		                        	<span class="name">Name</span>
-		                            <p class="para">Company name</p>
+		                        	<span class="name">Jaydeep Mukherjee</span>
+		                            <p class="para">Director, TCS Interactive</p>
 		                        </div>
 		                    </div>
 			            </div>
 			            <div class="carousel-item">
 			                <div class="testimonial_095_slide"> <a href="#"><span class="fa fa-quote-left"></span></a>
-			                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+			                    <p>Tejasree's passion for Experience Design and UI Design is very evident. I worked with Tejasree as the US-based UX Lead for a US-based client site redesign. In my 35 years of client-facing roles, this project was the most challenging I've ever encountered. Tejasree worked through the challenges to maintain momentum and create excellent design solutions...</p>
 			                </div>
 			                <div class="d-flex justify-content-center margin-indicators">
 		                        <div>
-		                        	<img src="images/dummy-img.png" width="50" height="50" class="rounded-circle">
+		                        	<img src="images/bryan-daniel.jpg" width="60" height="60" class="rounded-circle">
 		                        </div>
 		                        <div class="ml-2">
-		                        	<span class="name">Name</span>
-		                            <p class="para">Company name</p>
+		                        	<span class="name">Bryan Daniel</span>
+		                            <p class="para">UX Lead at TCS</p>
 		                        </div>
 		                    </div>
 			            </div>
-			            <div class="carousel-item">
+			            <!--<div class="carousel-item">
 			                <div class="testimonial_095_slide"> <a href="#"><span class="fa fa-quote-left"></span></a>
 			                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
 			                </div> 
@@ -381,7 +381,7 @@
 		                            <p class="para">Company name</p>
 		                        </div>
 		                    </div>
-			            </div>
+			            </div>-->
 			        </div>
 
 			        <!--<a class="carousel-control-prev" href="#testimonial_095" data-slide="prev"> <span class="fa fa-chevron-left"></span> </a> 
@@ -535,7 +535,7 @@
 				<div class="row">
 					<div class="col-sm-6 col-md-6 col-lg-6">
 						<div class="copyright-lft pt-2">
-	                       <p>Copyright &#169; 2020<a href="index.php"> Tejasree Kapsi</a> </p>
+	                       <p>Copyright &#169; <?php echo date('Y') ?><a href="index.php"> Tejasree Kapsi</a> </p>
 						</div>
 					</div>
 					
@@ -575,9 +575,6 @@
 				}
 			});
 		</script>
-   
-		
-
-        
+     
 	</body>
 </html>
