@@ -40,7 +40,7 @@
 									<img class="img-fluid rounded-circle" src="images/tejasree.jpeg" width="80" height="80" alt="">
 									<p>Hey, I'm Tejasree</p>
 								</div>
-								<h1 class="hdesignation">UX <span>DESINER</span></h1>
+								<h1 class="hdesignation">UX <span>DESIGNER</span></h1>
 								<p>I'm a self taught designer and have learnt a lot of the processes, concepts and theories of user experience design through attending workshops, reading blogs and applying these to projects in my spare time and at  work.	I'm constantly learning new things everyday and love meeting people who are motivated and unafraid of sharing their ideas with the world.</p>
 								<div class="row pt-2">
 									<div class="col-sm-6 col-md-6 col-lg-6">
